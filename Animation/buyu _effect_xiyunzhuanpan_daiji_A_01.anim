@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buyu _effect_xiyunzhuanpan_daiji_A_01",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4666666666666667,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

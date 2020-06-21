@@ -1,0 +1,287 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buyu _effect_zuantoupao_baozha_A_01",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4666666666666667,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "yuanhuan1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.923,
+                "y": 2.923
+              }
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3.345,
+                "y": 3.345
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3.718,
+                "y": 3.718
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.2,
+              "value": 169
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuanhuan2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.127,
+                "y": 2.127
+              }
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.203,
+                "y": 2.203
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "wenli": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.437,
+                "y": 2.437
+              }
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.261,
+                "y": 2.261
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "gaolian": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.883,
+                "y": 1.883
+              }
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.052,
+                "y": 2.052
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "yuanhuan1_1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.456,
+                "y": 1.456
+              }
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.675,
+                "y": 1.675
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.811,
+                "y": 1.811
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.2,
+              "value": 169
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ZHONG": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4.489,
+                "y": 4.489
+              }
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3.718,
+                "y": 3.718
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 169
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

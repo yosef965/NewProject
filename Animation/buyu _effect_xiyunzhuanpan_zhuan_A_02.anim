@@ -1,0 +1,189 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buyu _effect_xiyunzhuanpan_zhuan_A_02",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "1": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -360
+            }
+          ]
+        }
+      },
+      "1/deng1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.05,
+              "value": 42.50000000000003
+            }
+          ]
+        }
+      },
+      "1/deng2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 191.25
+            }
+          ]
+        }
+      },
+      "1/deng3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.08333333333333333,
+              "value": 136.5
+            }
+          ]
+        }
+      },
+      "1/deng4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.1,
+              "value": 233.75
+            }
+          ]
+        }
+      },
+      "1/deng5": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.11666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "1/deng6": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "1/deng7": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "1/deng8": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "1/deng9": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "1/deng10": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "1/deng11": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "1/deng12": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "1/deng13": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "1/deng14": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "1/deng16": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "1/deng15": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

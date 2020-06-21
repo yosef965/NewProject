@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buyu _effect_miaozhuen_mao_A_01",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "kuang_1": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": -180
+            }
+          ]
+        }
+      },
+      "kuang_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 203
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "xin": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.885,
+                "y": 0.885
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

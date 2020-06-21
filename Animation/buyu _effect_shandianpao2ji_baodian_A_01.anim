@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buyu _effect_shandianpao2ji_baodian_A_01",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "di": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "guandian": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

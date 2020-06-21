@@ -1,0 +1,155 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buyu _effect_miaozhuen_zi_A_CHIXU",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "di": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "tu2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                127.118,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                134.652,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                127.118,
+                0,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "tu1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -122.803,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -131.174,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -122.803,
+                0,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "zi": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "zi_yin": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.03333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 173
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "8a08576a-baba-49ba-8674-87183ba42752",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "monk_mysticAllyRune_distRings": {
+      "ver": "1.0.4",
+      "uuid": "97b79e01-b642-4f91-b1d7-316b4bc06b40",
+      "rawTextureUuid": "8a08576a-baba-49ba-8674-87183ba42752",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 123,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

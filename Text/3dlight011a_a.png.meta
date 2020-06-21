@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "7c63171b-3e15-4dbf-b116-2eabb1c60564",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "3dlight011a_a": {
+      "ver": "1.0.4",
+      "uuid": "134f9a92-287c-42db-bdbd-81035f7dba3b",
+      "rawTextureUuid": "7c63171b-3e15-4dbf-b116-2eabb1c60564",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 62,
+      "height": 128,
+      "rawWidth": 64,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

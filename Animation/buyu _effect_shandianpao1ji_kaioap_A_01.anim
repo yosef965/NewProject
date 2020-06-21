@@ -1,0 +1,601 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buyu _effect_shandianpao1ji_kaioap_A_01",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "dian": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.197,
+                "y": 0.197
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.227,
+                "y": 0.227
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.259,
+                "y": 0.259
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "guang": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.361,
+                "y": 0.361
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.637,
+                "y": 0.637
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.873,
+                "y": 0.873
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "dian1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.197,
+                "y": 0.197
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.24,
+                "y": 0.24
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.259,
+                "y": 0.259
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "guang1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.361,
+                "y": 0.361
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.637,
+                "y": 0.637
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.873,
+                "y": 0.873
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "shandian": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "7ea5428e-f95e-49fa-90b7-fdd4bd391b99"
+                }
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": {
+                  "__uuid__": "0bdf43ce-e304-4611-a1fd-c2d7002217ad"
+                }
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": {
+                  "__uuid__": "614f57f5-e366-413f-83c4-2c7d114ab48e"
+                }
+              },
+              {
+                "frame": 0.4,
+                "value": {
+                  "__uuid__": "8de70381-b5b9-4de1-a32a-4d2f970656e6"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "dian2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.09,
+                "y": 0.09
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.096,
+                "y": 0.096
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.1,
+                "y": 0.1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "dian3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.09,
+                "y": 0.09
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.096,
+                "y": 0.096
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.1,
+                "y": 0.1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "shandian1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "7ea5428e-f95e-49fa-90b7-fdd4bd391b99"
+                }
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": {
+                  "__uuid__": "0bdf43ce-e304-4611-a1fd-c2d7002217ad"
+                }
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": {
+                  "__uuid__": "614f57f5-e366-413f-83c4-2c7d114ab48e"
+                }
+              },
+              {
+                "frame": 0.4,
+                "value": {
+                  "__uuid__": "8de70381-b5b9-4de1-a32a-4d2f970656e6"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "shandian2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "7ea5428e-f95e-49fa-90b7-fdd4bd391b99"
+                }
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": {
+                  "__uuid__": "0bdf43ce-e304-4611-a1fd-c2d7002217ad"
+                }
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": {
+                  "__uuid__": "614f57f5-e366-413f-83c4-2c7d114ab48e"
+                }
+              },
+              {
+                "frame": 0.4,
+                "value": {
+                  "__uuid__": "8de70381-b5b9-4de1-a32a-4d2f970656e6"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "lianjiedian": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "7472514f-9651-4159-8d7f-1d73675025b5"
+                }
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": {
+                  "__uuid__": "d7a39ad6-598d-4a8c-93bb-cf33272604f6"
+                }
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": {
+                  "__uuid__": "22a274a8-381b-46c5-a88a-31f0bfe7a12c"
+                }
+              },
+              {
+                "frame": 0.1,
+                "value": {
+                  "__uuid__": "e3f37b81-5cfa-42f7-a863-ab2d6dba3bc6"
+                }
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": {
+                  "__uuid__": "93a580e1-6f23-456e-a5dc-cd1ef2911344"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "7472514f-9651-4159-8d7f-1d73675025b5"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "d7a39ad6-598d-4a8c-93bb-cf33272604f6"
+                }
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": {
+                  "__uuid__": "22a274a8-381b-46c5-a88a-31f0bfe7a12c"
+                }
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": {
+                  "__uuid__": "e3f37b81-5cfa-42f7-a863-ab2d6dba3bc6"
+                }
+              },
+              {
+                "frame": 0.3,
+                "value": {
+                  "__uuid__": "93a580e1-6f23-456e-a5dc-cd1ef2911344"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "7472514f-9651-4159-8d7f-1d73675025b5"
+                }
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": {
+                  "__uuid__": "d7a39ad6-598d-4a8c-93bb-cf33272604f6"
+                }
+              },
+              {
+                "frame": 0.4,
+                "value": {
+                  "__uuid__": "22a274a8-381b-46c5-a88a-31f0bfe7a12c"
+                }
+              },
+              {
+                "frame": 0.43333333333333335,
+                "value": {
+                  "__uuid__": "e3f37b81-5cfa-42f7-a863-ab2d6dba3bc6"
+                }
+              },
+              {
+                "frame": 0.4666666666666667,
+                "value": {
+                  "__uuid__": "93a580e1-6f23-456e-a5dc-cd1ef2911344"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

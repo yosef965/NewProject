@@ -1,0 +1,255 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buyu _effect_jiguangpao_A_01",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "di1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 31.285,
+                "y": 33.727
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 31.285,
+                "y": 30.968
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 31.285,
+                "y": 33.727
+              }
+            }
+          ]
+        }
+      },
+      "di2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 31.285,
+                "y": 38.055
+              }
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 31.285,
+                "y": 38.405
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 31.285,
+                "y": 38.055
+              }
+            }
+          ]
+        }
+      },
+      "di3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 31.285,
+                "y": 28.469
+              }
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 31.285,
+                "y": 29.732
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 31.285,
+                "y": 28.469
+              }
+            }
+          ]
+        }
+      },
+      "di4": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 31.285,
+                "y": 16.122
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 31.285,
+                "y": 14.767
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 31.285,
+                "y": 16.122
+              }
+            }
+          ]
+        }
+      },
+      " chang1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 9.252,
+                "y": 9.252
+              }
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 8.201,
+                "y": 9.252
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 9.252,
+                "y": 9.252
+              }
+            }
+          ]
+        }
+      },
+      "chang2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 8.438,
+                "y": 9.252
+              }
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 11.132,
+                "y": 9.252
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 8.438,
+                "y": 9.252
+              }
+            }
+          ]
+        }
+      },
+      "yuanhuo": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4.862,
+                "y": 1.482
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 5.165,
+                "y": 1.482
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4.862,
+                "y": 1.482
+              }
+            }
+          ]
+        }
+      },
+      "yuanhuo1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4.862,
+                "y": 1.145
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4.909,
+                "y": 1.191
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4.862,
+                "y": 1.145
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
