@@ -3,7 +3,7 @@
   "_name": "buyu _effect_heidong_a_chuxian_01",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 0.5333333333333333,
+  "_duration": 0.36666666666666664,
   "sample": 30,
   "speed": 1,
   "wrapMode": 1,
@@ -16,97 +16,67 @@
               {
                 "frame": 0,
                 "value": {
-                  "__uuid__": "9e6f72e9-8c56-40c8-8ae6-82b551f3be20"
+                  "__uuid__": "79f76756-1e2e-43e6-8b69-0a06901f9cc0"
                 }
               },
               {
                 "frame": 0.03333333333333333,
                 "value": {
-                  "__uuid__": "9e6f72e9-8c56-40c8-8ae6-82b551f3be20"
+                  "__uuid__": "77b3c411-7467-4037-8120-4e43a49b2e3f"
                 }
               },
               {
                 "frame": 0.06666666666666667,
                 "value": {
-                  "__uuid__": "7fa91e89-51a1-4b74-9576-e3a8e7b7ad60"
+                  "__uuid__": "2cb05e05-8be8-442b-aeb9-281b1abae9ee"
                 }
               },
               {
                 "frame": 0.1,
                 "value": {
-                  "__uuid__": "59bc0509-c8b0-4b02-b76e-de9a3223fafb"
+                  "__uuid__": "7bea29a6-d170-4b79-923b-37e35e2dae98"
                 }
               },
               {
                 "frame": 0.13333333333333333,
                 "value": {
-                  "__uuid__": "21820d91-6c0d-45ab-930b-3c0b518748aa"
+                  "__uuid__": "fa8c2682-83fa-4ade-86a2-c475c5235c9e"
                 }
               },
               {
                 "frame": 0.16666666666666666,
                 "value": {
-                  "__uuid__": "0c89b2ff-d475-40e7-b8b7-04fe093a3064"
+                  "__uuid__": "ec5e6233-a251-47ce-ad96-11e67b99fa97"
                 }
               },
               {
                 "frame": 0.2,
                 "value": {
-                  "__uuid__": "bba95726-9420-45e7-bfbd-9701cf65a5ad"
+                  "__uuid__": "358e22d2-aed0-439c-b5cc-f058aa0715c0"
                 }
               },
               {
                 "frame": 0.23333333333333334,
                 "value": {
-                  "__uuid__": "48ae2685-269d-4668-a26e-9230878de746"
+                  "__uuid__": "1daa6b83-1e7c-4c95-b0c0-a4d43c597d99"
                 }
               },
               {
                 "frame": 0.26666666666666666,
                 "value": {
-                  "__uuid__": "e6a09d27-4e1c-4ec7-9999-568a61a15815"
+                  "__uuid__": "7c3f8c46-cb19-4fee-8069-c7cbe1aefb25"
                 }
               },
               {
                 "frame": 0.3,
                 "value": {
-                  "__uuid__": "cdeb50a0-05c4-4164-8f6b-4c0465c09bb9"
+                  "__uuid__": "3750fff3-4fdb-4139-8c7b-1eb21b983f54"
                 }
               },
               {
                 "frame": 0.3333333333333333,
                 "value": {
-                  "__uuid__": "807233a6-17dc-4917-8f6e-b45fd25d9851"
-                }
-              },
-              {
-                "frame": 0.36666666666666664,
-                "value": {
-                  "__uuid__": "b989ff66-8462-493e-b9d6-0c57366d42bd"
-                }
-              },
-              {
-                "frame": 0.4,
-                "value": {
-                  "__uuid__": "abdec8ee-9b56-476d-adc9-6d0f42bb1b04"
-                }
-              },
-              {
-                "frame": 0.43333333333333335,
-                "value": {
-                  "__uuid__": "dca1cc95-d59e-43df-b3a1-70e1e1d8facc"
-                }
-              },
-              {
-                "frame": 0.4666666666666667,
-                "value": {
-                  "__uuid__": "75a76ba5-b7a1-417c-bb05-29df4a4c937b"
-                }
-              },
-              {
-                "frame": 0.5,
-                "value": {
-                  "__uuid__": "f1e042dd-e2ff-4bbb-b7a2-39327e96a844"
+                  "__uuid__": "b835ad57-b69b-41bc-9d91-cd3a3b019309"
                 }
               }
             ]
