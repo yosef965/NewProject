@@ -1,0 +1,289 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buyu _effect_ui_fengkuangzuanto_A_01_chixu",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "di": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -14.337,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                -14.337,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "yu1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -165.855,
+                -4.791,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -165.855,
+                -4.791,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "yu2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                194.185,
+                -4.423,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                194.185,
+                -4.423,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "guang": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.672,
+                "y": 0.65
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.672,
+                "y": 0.65
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "zuan1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "zuan11": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "zuan2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "zuan22": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "zi": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": []
+        }
+      },
+      "ziyin": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ],
+          "scale": []
+        }
+      },
+      "lizi3": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "duration": [
+              {
+                "frame": 0,
+                "value": 1
+              },
+              {
+                "frame": 1,
+                "value": 1
+              }
+            ]
+          }
+        }
+      },
+      "lizi31": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "duration": [
+              {
+                "frame": 0,
+                "value": 1
+              },
+              {
+                "frame": 1,
+                "value": 1
+              }
+            ]
+          }
+        }
+      },
+      "lizi2": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "duration": [
+              {
+                "frame": 0,
+                "value": 1
+              },
+              {
+                "frame": 1,
+                "value": 1
+              }
+            ]
+          }
+        }
+      },
+      "lizi21": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "duration": [
+              {
+                "frame": 0,
+                "value": 1
+              },
+              {
+                "frame": 1,
+                "value": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}
