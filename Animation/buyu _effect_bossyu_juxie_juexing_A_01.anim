@@ -3,84 +3,182 @@
   "_name": "buyu _effect_bossyu_juxie_juexing_A_01",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 1.1,
+  "_duration": 0.9,
   "sample": 10,
   "speed": 1,
   "wrapMode": 2,
   "curveData": {
     "paths": {
-      "tu": {
-        "comps": {
-          "cc.Sprite": {
-            "spriteFrame": [
-              {
-                "frame": 0,
-                "value": {
-                  "__uuid__": "4dbd9373-ef22-4dbd-ae24-0cb47abcf32d"
-                }
-              },
-              {
-                "frame": 0.1,
-                "value": {
-                  "__uuid__": "4dbd9373-ef22-4dbd-ae24-0cb47abcf32d"
-                }
-              },
-              {
-                "frame": 0.2,
-                "value": {
-                  "__uuid__": "af3ef464-26df-4057-b55d-39eeec549a94"
-                }
-              },
-              {
-                "frame": 0.3,
-                "value": {
-                  "__uuid__": "8a52e22e-fcd0-42bd-89d7-c98137c2eadd"
-                }
-              },
-              {
-                "frame": 0.4,
-                "value": {
-                  "__uuid__": "a17f92fa-a3bd-4d81-b473-0fb8403a4fde"
-                }
-              },
-              {
-                "frame": 0.5,
-                "value": {
-                  "__uuid__": "d4df8599-d846-4a83-a656-05d8ad3816ff"
-                }
-              },
-              {
-                "frame": 0.6,
-                "value": {
-                  "__uuid__": "24ad1ce7-393b-4f74-b816-77bda76894cb"
-                }
-              },
-              {
-                "frame": 0.7,
-                "value": {
-                  "__uuid__": "986c5492-469e-4f97-98a8-057e997c2b40"
-                }
-              },
-              {
-                "frame": 0.8,
-                "value": {
-                  "__uuid__": "93e20fb5-ba56-4403-97a5-65d5672c6fd1"
-                }
-              },
-              {
-                "frame": 0.9,
-                "value": {
-                  "__uuid__": "e8f675f5-ed10-4af2-a061-6c690afd59b4"
-                }
-              },
-              {
-                "frame": 1,
-                "value": {
-                  "__uuid__": "bc421642-332d-4769-bd70-63c96ead2211"
-                }
-              }
-            ]
-          }
+      "lizi1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -47.638,
+                36.051,
+                0
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                -44.971,
+                35.434,
+                0
+              ]
+            },
+            {
+              "frame": 0.2,
+              "value": [
+                -37.976,
+                34.817,
+                0
+              ]
+            },
+            {
+              "frame": 0.3,
+              "value": [
+                -33.079,
+                34.201,
+                0
+              ]
+            },
+            {
+              "frame": 0.4,
+              "value": [
+                -27.045,
+                33.584,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -28.182,
+                32.967,
+                0
+              ]
+            },
+            {
+              "frame": 0.6,
+              "value": [
+                -27.362,
+                33.738,
+                0
+              ]
+            },
+            {
+              "frame": 0.7,
+              "value": [
+                -32.984,
+                34.509,
+                0
+              ]
+            },
+            {
+              "frame": 0.8,
+              "value": [
+                -39.262,
+                35.28,
+                0
+              ]
+            },
+            {
+              "frame": 0.9,
+              "value": [
+                -47.638,
+                36.051,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "lizi2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                80.553,
+                31.361,
+                0
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                80.68,
+                32.12,
+                0
+              ]
+            },
+            {
+              "frame": 0.2,
+              "value": [
+                84.83,
+                32.88,
+                0
+              ]
+            },
+            {
+              "frame": 0.3,
+              "value": [
+                89.855,
+                33.639,
+                0
+              ]
+            },
+            {
+              "frame": 0.4,
+              "value": [
+                96.95,
+                34.398,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                100.721,
+                35.157,
+                0
+              ]
+            },
+            {
+              "frame": 0.6,
+              "value": [
+                96.029,
+                34.208,
+                0
+              ]
+            },
+            {
+              "frame": 0.7,
+              "value": [
+                92.007,
+                33.259,
+                0
+              ]
+            },
+            {
+              "frame": 0.8,
+              "value": [
+                84.968,
+                32.31,
+                0
+              ]
+            },
+            {
+              "frame": 0.9,
+              "value": [
+                80.553,
+                31.361,
+                0
+              ]
+            }
+          ]
         }
       }
     }
