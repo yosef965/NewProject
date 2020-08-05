@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "d68601f3-7c0f-4354-92ad-418a674092e1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Pngtreetransparent soap bubbles_488245": {
+      "ver": "1.0.4",
+      "uuid": "e3f600ed-22b8-43e5-a5e7-21de30728322",
+      "rawTextureUuid": "d68601f3-7c0f-4354-92ad-418a674092e1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": -1,
+      "trimX": 32,
+      "trimY": 10,
+      "width": 262,
+      "height": 267,
+      "rawWidth": 320,
+      "rawHeight": 285,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
