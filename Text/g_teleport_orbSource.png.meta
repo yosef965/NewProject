@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "8a4a1512-7c07-4086-bd2e-42c9b475fe9f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "g_teleport_orbSource": {
+      "ver": "1.0.4",
+      "uuid": "19f18dfe-e9c6-46d2-8c2c-dbccc785de29",
+      "rawTextureUuid": "8a4a1512-7c07-4086-bd2e-42c9b475fe9f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": -1.5,
+      "trimX": 46,
+      "trimY": 48,
+      "width": 414,
+      "height": 419,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

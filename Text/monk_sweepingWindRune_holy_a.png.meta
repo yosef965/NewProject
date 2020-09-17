@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "8a800264-65f9-4ad9-9a81-8a6b0b5c12c4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "monk_sweepingWindRune_holy_a": {
+      "ver": "1.0.4",
+      "uuid": "a69d4a54-abdf-49d1-a6bd-1433c0e295ce",
+      "rawTextureUuid": "8a800264-65f9-4ad9-9a81-8a6b0b5c12c4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 2,
+      "trimX": 10,
+      "trimY": 13,
+      "width": 490,
+      "height": 482,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

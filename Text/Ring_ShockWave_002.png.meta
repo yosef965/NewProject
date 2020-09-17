@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "4d17dc90-d4b7-45b0-9474-c8a8abb8d6c3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Ring_ShockWave_002": {
+      "ver": "1.0.4",
+      "uuid": "dc4e42a5-9ada-48bf-8fa9-5bd3171514a4",
+      "rawTextureUuid": "4d17dc90-d4b7-45b0-9474-c8a8abb8d6c3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

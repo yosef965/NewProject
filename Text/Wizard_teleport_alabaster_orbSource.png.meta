@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "0c565d68-28dc-491f-8ee0-c6a633377911",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Wizard_teleport_alabaster_orbSource": {
+      "ver": "1.0.4",
+      "uuid": "b44613f3-392f-43f9-a108-d71388123fc0",
+      "rawTextureUuid": "0c565d68-28dc-491f-8ee0-c6a633377911",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
